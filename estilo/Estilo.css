@@ -1,0 +1,64 @@
+body{
+    background-image: url("../images/fundo.png");
+}
+
+.principal{
+    width: 900px;
+}
+
+ul{
+    margin: 0;
+    list-style: none;
+    background-color: rgb(243, 236, 209);
+    box-sizing: border-box;
+    width: 100%; 
+    float: left;
+}
+
+ul li{
+    float: left;
+}
+
+ul a{
+   
+    display: block;
+    padding: 0 2em;
+    line-height: 2em;
+    text-decoration: none;
+    color: rgb(63, 90, 247);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main{
+    margin-top: 3em;
+    clear: both;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 2px 2px;
+    background-color: rgb(243, 236, 209);
+    
+}
+
+main img{
+    border-radius: 3px;
+    margin-left: 15px;
+    border: 5px solid gray;
+}
+
+h2,p,a{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7px;
+}
+
+footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#ClssAt{ /*mostrar qual a classe atual*/
+    border-radius: 3px;
+    background-color: rgb(197, 197, 248);
+}
+
