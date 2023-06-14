@@ -4,13 +4,15 @@
   <img src="https://img.shields.io/github/last-commit/Samuel-045/Anna_Bella?style=for-the-badge"/>
  </p>
  
- #Descrição do projeto
- Projeto realizado para colocar em prática os conhecimentos adquiridos no curso: site profissional da modelo Anna Bella.
+ # Descrição do projeto
+
+Projeto realizado para colocar em prática os conhecimentos adquiridos no curso: site profissional da modelo Anna Bella.
  O projeto possui 4 páginas: Home, Biografia, Campanhas Publicitárias e Contato, com fácil navegação entre elas.
  
  <h2>:hammer: Funcionalidades </h2>
- - `Funcionalidade` : Navegação entre páginas e uso de DIV's
 
+- `Funcionalidade` : Navegação entre páginas e uso de DIV's
+ 
 <h2>:file_folder: Como ter acesso ao projeto</h2>
 Acessar o link: https://annabella01.netlify.app/ ou dar um git clone em sua máquina.
 
